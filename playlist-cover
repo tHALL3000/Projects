@@ -1,0 +1,73 @@
+h1 {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: normal;
+  font-family: "William", serif;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 34px;
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  margin-top:0;
+  margin-bottom:24px;
+  color: white;
+}
+
+img {
+  width: 230px;
+  height: 230px;
+  margin-bottom: 50px;
+}
+h3{
+  font-family: 'William', serif;
+  margin: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+  line-height: 18px;
+  font-weight: normal;
+  color: white;
+}
+p {
+  font-family: "Inter", sans-serif;
+  text-align:center;
+}
+div {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    }
+    
+    
+    ----------
+    
+    <!DOCTYPE html>
+<html>
+<head>
+   <title>The Life of a Coder</title>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image" href="https://code.s3.yandex.net/web-code/playlist-favicon.ico">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+      
+    <h1>The Life of a</h1>
+    <h2>Coder</h2>
+    <img src="https://images.unsplash.com/photo-1594904351111-a072f80b1a71?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2775&q=80" alt="cover image">
+       <h3>2021</h3>
+       <h3>T Hall</h3>
+    </div>
+    <p> A <a href="https://www.noisli.com" target="_blank">playlist</a> for happy coding.
+    </p>
+    <p>Keep your code close but your playlist closer.</p>
+    
+</body>
+</html>
